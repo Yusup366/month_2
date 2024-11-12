@@ -23,3 +23,14 @@ __pycache__/
 **/.pycache__*
 
 .idea
+.idea/
+/.idea/
+/.idea
+.idea*
+/.idea*
+
+
+*.idea/
+/*.idea*
+/idea*
+/.idea/
