@@ -25,8 +25,3 @@ class Car:
 
 #экземпяр
 audi = Car(model='a8',age='2000',volume='2.8')
-mazda = Car(model='rx-8',age='2001',volume='1.5')
-audi.drive()
-mazda.drive()
-
-print(audi)
